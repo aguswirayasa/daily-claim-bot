@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "kingz": {
+      "authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjIxNzg2NDAsImRpZCI6NDIwMzU4MzgsImRldmljZSI6bnVsbCwiYWNjb3VudF9pZCI6ImFndXN3aXJheWFzYS50ZyIsImRldmljZV9pZCI6IjZmYzgwNzNlLTEyNWQtNGFiOS1iOTUwLTQ4NTNjYmY0YzI0ZiIsInBsYXRmb3JtIjoidGVsZWdyYW0iLCJ0aW1lc3RhbXAiOjE3MTcwMDU5NTIuMCwidmlld19vbmx5IjpmYWxzZX0.OR1DkVl2J2vtJ6PcAireJQ6xOAviNm227leDGXqh-tU",
+      "deviceId": "6fc8073e-125d-4ab9-b950-4853cbf4c24f",
+      "telegramData": "query_id=AAFlybNQAAAAAGXJs1CkT95X&user=%7B%22id%22%3A1353959781%2C%22first_name%22%3A%22Kingz%22%2C%22last_name%22%3A%22%F0%9F%90%88%E2%80%8D%E2%AC%9B%22%2C%22username%22%3A%22IamKingz69%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728322308&hash=825672bfb002ec6ec0d03704677691617e03d3c02335b9dddb4c652ccd94bca7",
+      "gameState": {
+        "refferals": 2,
+        "inviter": "vjrusmayana.tg",
+        "village": "16469.village.hot.tg",
+        "last_claim": 1729620750664000,
+        "firespace": 3,
+        "boost": 14,
+        "storage": 23,
+        "balance": 38544944
+      },
+      "farmingInterval": 8
+    },
+    "azzaroth": {
+      "authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjY3NTkzOTYsImRpZCI6MTQ2OTc2MjEyLCJkZXZpY2UiOm51bGwsImFjY291bnRfaWQiOiI3MDg4OTcxMzg2LnRnIiwiZGV2aWNlX2lkIjoiYjdmMGM5MGYtYjUxMS00ZDgzLWI0ODktZGQxYzBhOTkzZDU2IiwicGxhdGZvcm0iOiJ0ZWxlZ3JhbSIsInRpbWVzdGFtcCI6MTcyODgxNzk1OC4wLCJ2aWV3X29ubHkiOmZhbHNlfQ.m9AtHZRKtZ0qOixq9drFOP_k8mHJJKbQQcYptA9-UwE",
+      "deviceId": "b7f0c90f-b511-4d83-b489-dd1c0a993d56",
+      "telegramData": "query_id=AAF6HokmAwAAAHoeiSblNrkr&user=%7B%22id%22%3A7088971386%2C%22first_name%22%3A%22Lord%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%22%2C%22username%22%3A%22azzaroth69%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729618209&hash=4488887f2bb277d0451b5c6a1cb24c8ee8d81fbd14391f9fd682056fab08b68b",
+      "gameState": {
+        "refferals": 1,
+        "inviter": "aguswirayasa.tg",
+        "village": "16469.village.hot.tg",
+        "last_claim": 1729620865025000,
+        "firespace": 0,
+        "boost": 11,
+        "storage": 22,
+        "balance": 1129820
+      },
+      "farmingInterval": 4
+    },
+    "azzaroth 2": {
+      "authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjMyMTA5MTUwLCJkaWQiOjE1MTMwNzMxOSwiZGV2aWNlIjpudWxsLCJhY2NvdW50X2lkIjoiNzYzOTgwNTgzNy50ZyIsImRldmljZV9pZCI6IjE2Njk0NzExLTc5OGQtNDk5Mi1iNDkyLWY2Mzk2YzY0N2JiNyIsInBsYXRmb3JtIjoidGVsZWdyYW0iLCJ0aW1lc3RhbXAiOjE3Mjk2MTg4ODYuMCwidmlld19vbmx5IjpmYWxzZX0.KeuSvTptIkHNx0o6s15qykhHdyNQG8Sk17hXW0OuVXM",
+      "deviceId": "16694711-798d-4992-b492-f6396c647bb7",
+      "telegramData": "query_id=AAGNL15HAwAAAI0vXkfA72Jf&user=%7B%22id%22%3A7639805837%2C%22first_name%22%3A%22Azzaroth%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729665831&hash=95711d0715a9fc80c3bcd6e0cefde38ee6d43de814a87faf8f9179373aa4b88e",
+      "gameState": {
+        "refferals": 0,
+        "inviter": "7088971386.tg",
+        "village": "null",
+        "last_claim": 1729666259605000,
+        "firespace": 0,
+        "boost": 11,
+        "storage": 20,
+        "balance": 110000
+      },
+      "farmingInterval": 2
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "tg-farming-bot",
+  "version": "1.0.0",
+  "description": "Telegram Farming Bot",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "pkg": {
+    "assets": [
+      "node_modules/**/*"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "build:pkg": "pkg ."
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0",
+    "inquirer": "^8.2.4",
+    "winston": "^3.15.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
